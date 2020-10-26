@@ -733,6 +733,14 @@ ul.our-primary-menu li a:hover {
 	padding: 25px;
 	border-radius: 5px;
 }
+
+.contact-main h4 {
+	font-weight: 600;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #090a0c;
+	margin-bottom: 20px;
+}
 .contact-main-1{}
 .contact-main-2 {
 	border: none;
